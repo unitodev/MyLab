@@ -1,0 +1,6 @@
+﻿  612110055_Lab_1_2.cpp
+C:\Users\Asus\Documents\CGlab\612110055_Lab_1\612110055_Lab_1\612110055_Lab_1_2.cpp(7,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+612110055_Lab_1_2.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) already defined in 612110055_Lab_1.obj
+612110055_Lab_1_2.obj : error LNK2005: "void __cdecl SetupRC(void)" (?SetupRC@@YAXXZ) already defined in 612110055_Lab_1.obj
+612110055_Lab_1_2.obj : error LNK2005: _main already defined in 612110055_Lab_1.obj
+C:\Users\Asus\Documents\CGlab\612110055_Lab_1\Debug\612110055_Lab_1.exe : fatal error LNK1169: one or more multiply defined symbols found
